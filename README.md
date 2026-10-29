@@ -61,8 +61,12 @@
 ### Meus números
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaopedroangelico&show_icons=true&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroangelico&layout=compact&hide_border=true&locale=pt-br" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/default/3-stats.svg" />
+  <img width="49%" src="./profile-summary-card-output/default/2-most-commit-language.svg" />
 </p>
 
 ---
