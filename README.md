@@ -1,7 +1,7 @@
-<h1 align="center">Oi, eu sou o João Pedro</h1>
+<h1 align="center">Meu nome é João Pedro Angélico</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software, técnico em ADS e instrutor de informática.<br>
+  Estudante de Engenharia de Software, técnico em ADS e atualmente instrutor de informática.<br>
   Gosto de transformar problemas do dia a dia em aplicativos simples e úteis.
 </p>
 
@@ -15,9 +15,9 @@
 
 - Moro em Joinville, Santa Catarina
 - Curso Engenharia de Software na UniCatólica
-- Dou aulas de informática para crianças (sim, é tão divertido quanto parece)
+- Dou aulas de informática para crianças (é um pouci divertido)
 - Cuido de um laboratório com máquinas Ubuntu
-- No momento, estou curtindo muito desenvolvimento mobile com Kotlin
+- No momento, estou curtindo muito desenvolver apps mobile com Kotlin
 
 ---
 
@@ -67,9 +67,9 @@
 
 ---
 
-### Vamos conversar?
+### Quer conversar?
 
-Sempre aberto a trocar ideias, participar de projetos ou só bater um papo sobre tecnologia.
+Sempre disponível a trocar ideias, participar de projetos ou só bater um papo sobre tecnologia.
 
 <p align="left">
   <a href="mailto:joao.pedro2049@gmail.com">
