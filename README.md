@@ -21,7 +21,7 @@
 
 ---
 
-### Com o que eu trabalho
+### Com o que eu trabalho ou já trabalhei
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,html,css,php,cs,c,nodejs,godot,mysql,git,github,linux,ubuntu&theme=light" />
@@ -80,4 +80,4 @@ Sempre disponível a trocar ideias, participar de projetos ou só bater um papo 
   </a>
 </p>
 
-<p align="center"><i>"Um commit por vez."</i></p>
+<p align="center"><i>"De pouquinho em pouquinho vamos longe."</i></p>
