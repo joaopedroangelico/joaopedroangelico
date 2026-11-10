@@ -1,5 +1,3 @@
-<h1 align="center">Meu nome é João Pedro Angélico</h1>
-
 <p align="center">
   Estudante de Engenharia de Software, técnico em ADS e atualmente instrutor de informática.<br>
   Gosto de transformar problemas do dia a dia em aplicativos simples e úteis.
